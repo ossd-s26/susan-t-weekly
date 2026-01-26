@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Susan and I am a senior! I'm majoring in Computer Science with minors in Web Development and Computer Science Education. My passions lie in the intersection of Computer Science and Education. I love to teach and tutor students in coding and math! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to listen to music, read, and watch movies! I'm currently reading Dyscalculia: A Love Story of Epic Miscalculation by Camonghne Felix and my favorite artist is The Weeknd. 
+
+I also love to take walks through the city and try out new resturants!
+
 
