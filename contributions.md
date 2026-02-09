@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| 2/8   | [link](https://www.openstreetmap.org/changeset/178292328)    | OpenStreetMap Feature    |   I fixed a gas station name on the map of my local town    |
 |     |     |     |      |
 |     |     |     |      |
