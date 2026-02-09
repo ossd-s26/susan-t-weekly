@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| 2/8   | [link](https://www.openstreetmap.org/changeset/178292328)    | OpenStreetMap Feature    |   I fixed a gas station name on the map of my local town    |
-|     |     |     |      |
+| 2/8   | [link](https://www.openstreetmap.org/changeset/178292328)    | OpenStreetMap Feature    |   I fixed a gas station name on the map of my local town.    |
+| 2/8   | [link](https://www.openstreetmap.org/changeset/178292451#map=19/43.132599/-88.004312)   |  OpenStreetMap Feature   | I fixed the name of a location in my hometown.     |
 |     |     |     |      |
