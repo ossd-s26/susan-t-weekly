@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | 2/12   | [link](https://en.wikipedia.org/w/index.php?title=Nerve_(2016_film)&diff=prev&oldid=1340619055)   |  Wikipedia Article   | I added the widely used nickname of a character in the movie to the Caste section.     |
 | 2/18  | [link](https://en.wikipedia.org/w/index.php?title=Nerve_(2016_film)&diff=prev&oldid=1340618528)    | Wikipedia Article    | I added more details about a movie's plot on Wikipedia.     |
 | 2/26  | [link](https://github.com/ossd-s26/hbd9577-weekly/issues/1)    | Weekly Blogs   | I opened an issue on [@hb9577's](https://github.com/ossd-s26/hbd9577-weekly) repo to adjust the formatting of her hyperlinks.     |
+| 2/26  | [link](https://github.com/ossd-s26/Xuan4781-weekly/issues/1)    | Weekly Blogs   | I opened an issue on [@Xuan4781's](https://github.com/ossd-s26/Xuan4781-weekly) repo to adjust the title of her markdown file.     |
